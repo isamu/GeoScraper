@@ -1,3 +1,3 @@
-module GeoScraper
+class GeoScraper
   VERSION = "0.0.1"
 end
