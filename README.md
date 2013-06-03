@@ -1,6 +1,6 @@
 # GeoScraper
 
-TODO: Write a gem description
+GeoScraper is location data (latitude/longitude) scraper.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    gs = GeoScraper.new(uri)
+    gs.lon # get longitude
+    gs.lat # get latitude
 
 ## Contributing
 
