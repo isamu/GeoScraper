@@ -29,3 +29,12 @@ Or install it yourself as:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Todo
+
+To convert Geodetic Datum.
+To support more site url.
+To support exif geotag.
+
+## Reference
+http://en.wikipedia.org/wiki/Geotagging

@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["isamu@to-kyo.to"]
   spec.description   = %q{GeoScraper is location data (latitude/longitude) scraper.}
   spec.summary       = %q{GeoScraper is location data (latitude/longitude) scraper.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/isamu/GeoScraper"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
