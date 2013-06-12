@@ -32,9 +32,9 @@ Or install it yourself as:
 
 ## Todo
 
-To convert Geodetic Datum.
-To support more site url.
-To support exif geotag.
+ * To convert Geodetic Datum (WGS <-> tokyo and radian, degree). 
+ * To support more site url.
+ * To support exif geotag.
 
 ## Reference
 http://en.wikipedia.org/wiki/Geotagging
